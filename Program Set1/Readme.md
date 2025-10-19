@@ -1,1 +1,1 @@
-Hi, I have done some program in python which are basic pyhon programs.
+Hi, I have done some programs in python. These are basic programs, I have mentioned the Program heading on top og every program they are related with the topic. If there is any error or mistake you can comment.
