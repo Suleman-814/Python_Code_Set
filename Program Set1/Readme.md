@@ -1,1 +1,1 @@
-Hi, I have done some programs in python. These are basic programs, I have mentioned the Program heading on top og every program they are related with the topic. If there is any error or mistake you can comment. Thank You!
+Hi, I have done some programs in python. These are basic programs, I have mentioned the Program heading on top of every program they are related with the topic. If there is any error or mistake you can comment. Thank You!
