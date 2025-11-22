@@ -1,3 +1,4 @@
+WAP to give disscount on items purchased
 
 p= int(input("Enter the price of item : "))
 if p<0:
@@ -14,4 +15,5 @@ if p<0:
         amount=1000-p
         print(f"you need to purchase ${amount} more ", amount)
     else:
+
         print("no disscount")
