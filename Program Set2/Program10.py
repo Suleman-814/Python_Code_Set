@@ -1,4 +1,4 @@
-WAP to give disscount on items purchased
+#WAP to give disscount on items purchased
 
 p= int(input("Enter the price of item : "))
 if p<0:
@@ -17,3 +17,4 @@ if p<0:
     else:
 
         print("no disscount")
+
