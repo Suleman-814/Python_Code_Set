@@ -8,4 +8,5 @@ while i<11:
     sum+=i
     i+=1
     #sum+=i
+
 print("sum of natural number is =",sum)
