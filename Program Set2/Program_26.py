@@ -9,4 +9,5 @@ while i<101:
         print(i, end="\t")
         sum+=i
     i+=1 
+
 print("sum of natural number is =",sum,end="\t") 
