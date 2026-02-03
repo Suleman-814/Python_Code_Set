@@ -19,3 +19,4 @@ def case():
     print("Total vowels is:",vowList,'=',vow,"\nTotal consonent is:",consList,'=',cons)
 case()
 
+
