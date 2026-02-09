@@ -18,4 +18,5 @@ def char():
             conslist.append(i)
     print("Total vowels is:",vowlist,'=',vow,"\nTotal consonent is:",conslist,'=',cons) 
 char()
+
     
