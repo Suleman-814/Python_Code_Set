@@ -16,5 +16,6 @@ if p<0:
         print(f"you need to purchase ${amount} more ", amount)
     else:
 
-        print("no disscount")
+        print("Sorry!No Disscount")
+
 
