@@ -12,4 +12,5 @@ while True:
         numbers.append(num)
         print("Number added:", num)
 
+
 print("Final list:", numbers)
