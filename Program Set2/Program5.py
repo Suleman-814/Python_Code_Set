@@ -5,4 +5,5 @@ if divNum%3==0:
     print(f"{divNum} is divisible by 3")
 else:
     print(f"{divNum} is not divisible by 3")
-print("Thank You!")    
+
+print("Thank You")    
