@@ -20,4 +20,5 @@ elif ser<6:
     print(" bonus amount is: ", net_b)
     print("Final Salary : ",bn_Sal)
 else:
-    print("Success only comes to those who work hard")
+    print("Success! comes to those who work hard")
+
