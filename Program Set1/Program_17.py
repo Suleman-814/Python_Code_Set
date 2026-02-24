@@ -9,7 +9,7 @@ while i<11:
     #sum+=i
 print("sum of natural number is =",sum)
 
-list=[10,11,13,14,16,17,33,35,37,38,20,40,50,60,99,98,97]
+list=[10,11,13,14,16,17,33,35,37,38,20,40,50,60,99,98,97,100]
 i=0
 sum=0
 #oddlist=[]
@@ -22,3 +22,4 @@ while i<len(list):
     i+=1    
 #print(oddlist)
 print("Sum:",sum)
+
