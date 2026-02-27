@@ -3,5 +3,6 @@
 def expo(x):
     return x ** 2
 
-obj = expo(10)
+obj = expo(5)
 print(obj)
+
