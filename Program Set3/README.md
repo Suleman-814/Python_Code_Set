@@ -14,6 +14,8 @@ During installation, make sure to check ✅ “Add Python to PATH”.
 
 After installation, open VS Code and install the Python extension (by Microsoft) from the Extensions Marketplace.
 
-3️⃣ Open the Folder Launch VS Code. Go to File → Open Folder and select your folder Program Set1. 4️⃣ Run a Program You can run a program in two ways:
+3️⃣ Open the Folder Launch VS Code. Go to File → Open Folder and select your folder Program Set3. 
+4️⃣ Run a Program You can run a program in two ways:
 
-▶️ Method 1: Using the Run Button Open any .py file (e.g., Program1.py). Click on the Run Python File button (triangle icon) at the top right corner. 💻 Method 2: Using the Terminal Open the terminal in VS Code (Ctrl + ~ or View → Terminal). Type and run: python Program1.py python Program_11.py
+▶️ Method 1: Using the Run Button Open any .py file (e.g., Program1.py). Click on the Run Python File button (triangle icon) at the top right corner. 
+💻 Method 2: Using the Terminal Open the terminal in VS Code (Ctrl + ~ or View → Terminal). Type and run: python Program1.py python Program_11.py
