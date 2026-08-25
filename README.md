@@ -59,7 +59,7 @@ The repository includes programs related to:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Suleman-814/Python_Code_Set.git
 ```
 
 2. Navigate to the desired program set:
