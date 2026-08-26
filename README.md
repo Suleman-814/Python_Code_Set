@@ -51,7 +51,7 @@ The repository includes programs related to:
 
 ## Requirements
 
-- Python 3.10+ (or your version)
+- Python 3.10+ (or latest)
 - No external libraries are required unless specified in a program.
 
 ## How to Run
